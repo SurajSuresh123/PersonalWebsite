@@ -1,2 +1,2 @@
 # PersonalWebsite
-https://github.com/SurajSuresh123/PersonalWebsite.git
+https://surajsuresh123.github.io/PersonalWebsite/
